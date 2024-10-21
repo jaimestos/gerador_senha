@@ -15,3 +15,4 @@ def gerar_senha (tamanho=12):
 
 teste = gerar_senha(20) 
 print(teste)
+#test
